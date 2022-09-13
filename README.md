@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehroz Akbar</h1>
-<h3 align="center">A SQA Engineer from Pakistan</h3>
+<h3 align="center">SQA Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Performance Testing**
 
