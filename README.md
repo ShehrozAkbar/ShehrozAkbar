@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shehroz Akbar</h1>
-<h3 align="center">SQA Engineer from Pakistan</h3>
+<h3 align="center">Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Performance Testing**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Selenium Webdriver**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 🤝 I’m looking for help with **Java Test Automation Scripting**
+- 🤝 I’m looking for help with **joint projects**
 
-- 💬 Ask me about **SQA, STLC, Manual Testing**
+- 💬 Ask me about **SDLC, HTML, CSS, Javascript**
 
 - 📫 How to reach me **ShehrozAkbar95@gmail.com**
 
