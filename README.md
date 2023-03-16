@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Data Structure & Algorithms**
+<!-- - 🌱 I’m currently learning **Data Structure & Algorithms** -->
 
 - 🤝 I’m looking for help with **joint projects**
 
