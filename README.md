@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shehroz Akbar</h1>
-<h3 align="center">Software Engineer from Pakistan</h3>
+<h3 align="center">SQA Automation Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Dynamic Programming**
+- 🔭 I’m currently working on **Functional Testing with Selenium**
 
-<!-- - 🌱 I’m currently learning **Data Structure & Algorithms** -->
+- 🌱 I’m currently learning **TestNG Framework with Selenium**
 
 <!-- - 🤝 I’m looking for help with **joint projects** -->
 
-- 💬 Ask me about **SDLC, HTML, CSS, Javascript, ALgorithms, Data Structures, OOP, SQL**
+- 💬 Ask me about **STLC, Software Testing, Test Automation, OOP, SQL**
 
 - 📫 How to reach me **ShehrozAkbar95@gmail.com**
 
