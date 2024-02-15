@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Functional Testing with Selenium**
 
-- 🌱 I’m currently learning **TestNG Framework with Selenium**
-
 - 💬 Ask me about **Selenium, Java, Testing, Automation**
 
 - 📫 How to reach me **shehrozakbar95@gmail.com**
