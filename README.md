@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shehroz Akbar</h1>
-<h3 align="center">A passionate SQA Automation Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Functional Testing with Selenium**
+- 🔭 I’m currently working on **Node JS**
 
-- 💬 Ask me about **Selenium, Java, Testing, Automation**
+- 💬 Ask me about **Vanila JS**
 
 - 📫 How to reach me **shehrozakbar95@gmail.com**
 
-- ⚡ Fun fact **I am a funny Guy**
+- ⚡ Fun fact **I also do Sketching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
