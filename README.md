@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shehroz Akbar</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **Node JS**
 
